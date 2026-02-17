@@ -7,3 +7,5 @@ print("The quick brown fox jumps over the lazy dog.")
 print("After stripping a,e,i,o,u")      
 print(strip_chars("The quick brown fox jumps over the lazy dog.", "aeiou"))
 print()
+Output:
+Th qck brwn fx jmps vr th lzy dg.
